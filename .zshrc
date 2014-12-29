@@ -13,7 +13,6 @@ setopt HIST_IGNORE_SPACE
 
 # Setup prompt
 setopt PROMPT_SUBST
-#PROMPT="%B%F{blue}%n%f%b@%B%F{blue}%m%f%b:%F{blue}%c%f $ "
 PROMPT="%F{green}%n%f@%F{green}%m%f:%F{blue}%c%f $ "
 PROMPT2="%F{blue}>%f"
 RPROMPT="%F{yellow}%T%f"
