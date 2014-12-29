@@ -1,7 +1,7 @@
 dotfiles
 ========
 
-My dotfiles.
+My dotfiles. Use it on your own risk!!!
 
 Usage
 -----
